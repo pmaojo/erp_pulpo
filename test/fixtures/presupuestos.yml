@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  referencia: MyString
+  notas: MyText
+  aceptado: false
+  factura: false
+  irpf: false
+  user_id: 
+  envio_id: 
+
+two:
+  nombre: MyString
+  referencia: MyString
+  notas: MyText
+  aceptado: false
+  factura: false
+  irpf: false
+  user_id: 
+  envio_id: 

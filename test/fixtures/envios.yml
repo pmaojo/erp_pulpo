@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  customer_id: 
+  body: MyText
+  enviado: false
+
+two:
+  nombre: MyString
+  customer_id: 
+  body: MyText
+  enviado: false

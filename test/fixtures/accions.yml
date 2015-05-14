@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  proyecto_id: 
+  deadline: 2015-05-14 00:14:52
+  descripcion: MyText
+  price: 9.99
+  impuesto: 9.99
+  presupuesto_id: 
+
+two:
+  nombre: MyString
+  proyecto_id: 
+  deadline: 2015-05-14 00:14:52
+  descripcion: MyText
+  price: 9.99
+  impuesto: 9.99
+  presupuesto_id: 

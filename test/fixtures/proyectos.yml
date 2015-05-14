@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  objetivo_id: 
+  presupuesto_id: 
+  briefing_id: 
+
+two:
+  nombre: MyString
+  objetivo_id: 
+  presupuesto_id: 
+  briefing_id: 
